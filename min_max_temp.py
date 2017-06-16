@@ -1,3 +1,11 @@
+"""
+Created on Sun Apr 30 05:15:25 2017
+@author: deng sta maria
+Plotting weather patterns
+plot the max and min temp for the given years of data.
+"""
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
