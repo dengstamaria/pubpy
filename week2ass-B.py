@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 30 05:15:25 2017
-@author: 10009174
-Plotting weather patterns
-plot the max and min temp for the given years of data.
-Same as week2ass-A but using pivot_table
-"""
-
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
